@@ -1,11 +1,3 @@
-
-<!-- <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Prakhar314&show_icons=true&theme=radical&count_private=true" />
-</div> -->
-<div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar314&layout=compact&show_icons=true&theme=radical&langs_count=4" />
-</div>
-
 <hr/>
 
 ### Hi there 👋
@@ -40,9 +32,19 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 <hr/>
+<!-- <div style="display: inline;"> -->
+<!-- <div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Prakhar314&show_icons=true&theme=radical&count_private=true" />
+</div> -->
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakhar314&layout=compact&show_icons=true&theme=radical&langs_count=4" />
+</div>
+<!-- </div> -->
+<hr/>
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=Prakhar314&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 
