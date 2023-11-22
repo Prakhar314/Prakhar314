@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am a final year undergraduate student studying Computer Science and Engineering at IIT Delhi.
+I am a first year masters student studying Computer Science at Georgia Institute of Technology. I completed my Bachelor's in Computer Science from IIT Delhi.
 - 🌱 I’m currently learning :crab: Rust
 - 📫 You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-jagwani-413946191/)
 <!--
