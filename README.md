@@ -20,14 +20,8 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=Java)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Torch](https://img.shields.io/badge/-Torch-black?style=flat-square&logo=PyTorch)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 ![Android Studio](https://img.shields.io/badge/-Android-black?style=flat-square&logo=Android)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
